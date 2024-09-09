@@ -47,3 +47,15 @@ def dastur():
 # git add - file yoki filelarni kuzatuv/kontrol ga olish
 # git commit -kuzatuvdagi/kontroldagi filelarni 
 # qayd etish / qayd ostiga olish
+
+# git remote add orgin https://github.com/shox750/4-oy-7-dars-uyga-vazifa-8-topshiriq.git
+# origin nomli cloud repo qo'shdik 
+# uning lokatsiyasi https://github.com/shox750/4-oy-7-dars-uyga-vazifa-8-topshiriq.git ekan
+
+# git branch 
+
+# git status
+
+# git remote -v
+
+# git commit -m "qayd xabari/izohi"
